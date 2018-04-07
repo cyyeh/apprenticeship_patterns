@@ -1,8 +1,8 @@
 # The visualization network for Apprenticeship Patterns using Vis.js
 
-**Website available at:** [Apprenticeship Patterns Visualization](https://cyyeh.github.io/apprenticeship_patterns/){:target="_blank"}
+**Website available at:** [Apprenticeship Patterns Visualization](https://cyyeh.github.io/apprenticeship_patterns/)
 
-The visualization network for pattern relationship in one of software engineering classic, [Apprenticeship Patterns](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382){:target="_blank"}.
+The visualization network for pattern relationship in one of software engineering classic, [Apprenticeship Patterns](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382).
 
 ![Apprenticeship Patterns Visualization](cover.jpg)
 

@@ -6,8 +6,8 @@ The visualization network for pattern relationship in one of software engineerin
 
 ![Apprenticeship Patterns Visualization](cover.jpg)
 
-- Done
-- [ v ] showing relationship among different patterns and groups
-- [ v ] English and Traditional Chinese available
-- Todo
+Done
+- [x] showing relationship among different patterns and groups
+- [x] English and Traditional Chinese available
+Todo
 - More concrete message explaining details of each pattern

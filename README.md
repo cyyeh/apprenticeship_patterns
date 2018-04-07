@@ -9,5 +9,6 @@ The visualization network for pattern relationship in one of software engineerin
 Done
 - [x] showing relationship among different patterns and groups
 - [x] English and Traditional Chinese available
+
 Todo
-- More concrete message explaining details of each pattern
+- [ ] More concrete message explaining details of each pattern

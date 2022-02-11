@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"deploy": "netlify deploy"
+	},
+	"devDependencies": {
+		"netlify-cli": "^9.3.0"
+	}
+}
